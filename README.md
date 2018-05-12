@@ -1,6 +1,6 @@
-#Patatap Clone
+# Patatap Clone
 
-##What is the Patatap Clone
+## What is the Patatap Clone
 
 Patatap Clone is a simplified version of the old Patatap website where each keypress will play a particular sound and colored circle that shrinks in size and changes hue as it shrinks.
 
